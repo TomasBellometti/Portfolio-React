@@ -9,7 +9,7 @@ function Sidebar() {
                <h3 className="sidebar-item__title">Sobre mi</h3>
                <img src={Tomi} alt="" className="sidebar-item__img" />
                <p className="sidebar-item__txt">
-                   Lorem ipsum dolor sit amet, consectetur adipisicing elit. Exercitationem quibusdam voluptatibus eligendi at! Atque, doloribus! Aliquam, sequi mollitia culpa quibusdam iure harum eligendi pariatur deserunt!
+               Diseñador Web. <br /> Estudié en la Escuela Multimedial Da Vinci, realice un curso de PhP procedural en BIT Digital Academy, y actualmente estoy aprendiendo el Stack de MERN.
                </p>
            </div>
            <div className="sidebar-item">
