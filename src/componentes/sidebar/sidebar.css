@@ -1,8 +1,9 @@
 .sidebar {
+  padding-top: 30px;
   display: flex;
   flex: 4;
   height: fit-content;
-  background-color: #0f0f0f;
+  background-color: #15202b;
   flex-direction: column;
 }
 .sidebar-item {
