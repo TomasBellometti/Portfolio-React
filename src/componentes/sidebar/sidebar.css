@@ -37,8 +37,19 @@
   margin: 30px;
 }
 .sidebar-item__formacion li {
-  width: 50%;
+  width: 40%;
   display: inline-block;
   color: white;
   margin-top: 15px;
+}
+
+.sidebar-item__redes {
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+}
+.sidebar-item__icons {
+  color: aliceblue;
+  font-size: 25px;
+  padding: 10px;
 }

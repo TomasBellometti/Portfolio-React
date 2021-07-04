@@ -19,12 +19,16 @@ export default function PostList() {
   // };*/
 
   return (
+    <>
+    
     <div className="postList">
+      <h2>Trabajos realizados</h2>
       <Post/>
       <Post/>
       <Post/>
       <Post/>
     </div>
+    </>
     
   );
 }
