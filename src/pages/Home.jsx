@@ -12,9 +12,9 @@ function Home() {
         <div className="home">
             <Postlist />            
             <Sidebar />
-        </div>
             <Form />
-        </>
+        </div>
+    </>
     )
 }
 
