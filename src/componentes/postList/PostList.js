@@ -1,5 +1,6 @@
-import React, {/* useEffect, useState*/ } from "react";
+import React /* useEffect, useState*/ from "react";
 import Post from "../post/Post";
+import PostPhoto from "../postPhoto/PostPhoto";
 import "./postList.css";
 
 //import axios from "axios";
@@ -20,15 +21,13 @@ export default function PostList() {
 
   return (
     <>
-    
-    <div className="postList">
-      <h2>Trabajos realizados</h2>
-      <Post/>
-      <Post/>
-      <Post/>
-      <Post/>
-    </div>
+      <div className="postList">
+        <h2>Trabajos realizados</h2>
+        <Post />
+        <PostPhoto />
+        <Post />
+        <Post />
+      </div>
     </>
-    
   );
 }
