@@ -42,3 +42,13 @@
   -webkit-box-orient: vertical;
   color: rgb(163, 163, 163);
 }
+.post-link {
+  margin-top: 15px;
+  text-align: center;
+  text-decoration: none;
+  color: white;
+}
+.post-link_icon {
+  color: rgb(255, 0, 0);
+  margin-right: 5px;
+}
