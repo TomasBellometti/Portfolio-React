@@ -6,9 +6,10 @@ function Header() {
     return (
         <div className="hero">
             <h1 className="hero-title">
-                TOMI´S
+                Tomas Bellometti
             </h1>
             <span className="hero-subtitle">Diseño y desarrollo web</span>
+            <span className="hero-subtitle_adc">Creo sitios web ideales y exclusivos para su necesidad.</span>
             {/* <div className="hero-img"> */}
                 {/* <img src={Img} alt="" /> */}
             {/* </div> */}
