@@ -1,6 +1,6 @@
 import React from 'react'
 import "./header.css"
-// import Img from "../../assets/bg.jpg"
+import Img from "../../assets/pc.png"
 
 function Header() {
     return (
@@ -12,6 +12,7 @@ function Header() {
             {/* <div className="hero-img"> */}
                 {/* <img src={Img} alt="" /> */}
             {/* </div> */}
+            <img src={Img} alt="" className="hero-img_sm"/>
         </div>
     )
 }

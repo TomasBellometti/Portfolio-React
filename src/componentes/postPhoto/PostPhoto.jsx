@@ -1,15 +1,17 @@
-import './post.css'
+// import './post.css'
 
 function Post() {
     
     return (        
     <div className="post">
-        <img className="post-img" src="https://tomasbellometti.com.ar/img/projects/project-tattoo.jpg" alt="" />
+        <img className="post-img" src="https://tomasbellometti.com.ar/img/projects/project.webp" alt="" />
         <div className="post-info">
             <div className="post-categorias">
-                <span className="post-cat">Adobe Xd</span>
-                <span className="post-cat">UI/UX</span>
-                <span className="post-cat">Diseño Web</span>
+                <span className="post-cat">HTML</span>
+                <span className="post-cat">CSS</span>
+                <span className="post-cat">Javascript</span>
+                <span className="post-cat">PHP</span>
+                <span className="post-cat">MySql</span>
             </div>
             <span className="post-title">
                 Martin Bosio | Fotografo
