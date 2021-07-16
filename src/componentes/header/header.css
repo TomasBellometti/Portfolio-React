@@ -16,6 +16,8 @@
   position: relative;
 }
 .hero-title {
+  font-weight: 500;
+  font-family: "Spectral", serif;
   color: white;
   position: absolute;
   top: 25%;
