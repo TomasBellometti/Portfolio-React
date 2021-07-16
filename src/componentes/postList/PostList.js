@@ -1,6 +1,7 @@
 import React /* useEffect, useState*/ from "react";
 import Post from "../post/Post";
 import PostPhoto from "../postPhoto/PostPhoto";
+import PostDecon from "../postDecon/PostDecon";
 import "./postList.css";
 
 //import axios from "axios";
@@ -25,7 +26,7 @@ export default function PostList() {
         <h2>Trabajos realizados</h2>
         <Post />
         <PostPhoto />
-        <Post />
+        <PostDecon />
         <Post />
       </div>
     </>
