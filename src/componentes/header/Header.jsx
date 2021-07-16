@@ -9,7 +9,7 @@ function Header() {
                 Tomas Bellometti
             </h1>
             <span className="hero-subtitle">Diseño y desarrollo web</span>
-            <span className="hero-subtitle_adc">Creo sitios web ideales y exclusivos para su necesidad.</span>
+            <span className="hero-subtitle_adc">Creo sitios web ideales para su necesidad.</span>
             {/* <div className="hero-img"> */}
                 {/* <img src={Img} alt="" /> */}
             {/* </div> */}
